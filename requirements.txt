@@ -1,0 +1,5 @@
+torch==2.1.0      # Neural network for reinforcement learning
+deepseek-r1       # API wrapper for Deepseek R1 1.5B
+numpy==1.24.3     # Data processing
+pandas==1.5.3     # Data analysis
+matplotlib==3.7.1 # Visualization
