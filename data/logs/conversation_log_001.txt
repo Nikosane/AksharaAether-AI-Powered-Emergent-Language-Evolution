@@ -1,0 +1,3 @@
+Step 1: Agent_1 → Agent_2 | Msg: "zorlak" | Resp: "hmm?"
+Step 2: Agent_2 → Agent_3 | Msg: "zorlak" | Resp: "accepted"
+Step 3: Agent_1 → Agent_3 | Msg: "zorlak" | Resp: "zorlak good"
